@@ -7,7 +7,7 @@
    <br/>
    - Major : Statistics📊
    <br/>
-   - Studying in : Bitamin 9th🍊 & Next x Likelion 10th🦁
+   - Studying with : Bitamin 9th🍊 & Next x Likelion 10th🦁
    <br/>
    - Email : badr1108@naver.com
    <br/>
