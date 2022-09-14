@@ -22,6 +22,7 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
   <img alt="Sass" src ="https://img.shields.io/badge/Sass-34E27A.svg?&style=flat-square&logo=Sass&logoColor=white"/>
+  <img alt="Django" src ="https://img.shields.io/badge/Django-34E27A.svg?&style=flat-square&logo=Django&logoColor=white"/>
   <br/><br/>
   
   --------------------------------
