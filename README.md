@@ -13,7 +13,7 @@
    <br/>
    - Blog :  <a href="https://issoy0514.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
       <br/>
-   - Notion :  <a href="https://www.notion.so/s-Notion-2d7fc0de8ee34c0eab864f96420d1ed7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Tistory&logoColor=Black"/></a>
+   - Notion :  <a href="https://www.notion.so/s-Notion-2d7fc0de8ee34c0eab864f96420d1ed7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
    
   ---------------------------------
   <h3>📚Studying📚</h3>
